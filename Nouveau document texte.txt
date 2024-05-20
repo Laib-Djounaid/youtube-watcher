@@ -1,0 +1,6 @@
+fetch comments from video or playlist 
+then : 
+if disrespectful ---> madirlich notification mais khebih f database
+if negative ---> respond automatically
+if positive ---? thank
+if requires explanation ---> dirli notification beli I need to reply
